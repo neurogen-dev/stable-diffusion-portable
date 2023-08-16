@@ -5,7 +5,7 @@ A portable version of Stable Diffusion based on [SD.Next](https://github.com/vla
 
 - Download the 7zip archive and unzip it:
 
-  [DOWNLOAD PORTABLE STABLE DIFFUSION](https://dl.neurochat-gpt.ru/s/yPq8zqPyi96aea3/download/sdnext-portable%20by%20Neurogen.7z)
+  [DOWNLOAD PORTABLE STABLE DIFFUSION](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
 
   [MIRROR #1](https://disk.yandex.ru/d/96kEuN_tarGDcQ)
   [MIRROR #2](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
@@ -30,7 +30,7 @@ You can support me by subscribing to my [Boosty](https://boosty.to/neurogen) or 
 
 - Скачайте 7zip архив:
 
-  [СКАЧАТЬ ПОРТАТИВНУЮ ВЕРСИЮ](https://dl.neurochat-gpt.ru/s/yPq8zqPyi96aea3/download/sdnext-portable%20by%20Neurogen.7z)
+  [СКАЧАТЬ ПОРТАТИВНУЮ ВЕРСИЮ](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
   
   [ЗЕРКАЛО #1](https://disk.yandex.ru/d/96kEuN_tarGDcQ)
   [ЗЕРКАЛО #2](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
