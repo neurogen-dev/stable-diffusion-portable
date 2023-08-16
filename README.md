@@ -47,3 +47,7 @@ CUDNN обновлен до версии 8.9.4
 ## Поддержать меня:
 
 Вы можете поддержать меня, подписавшись на мой [Boosty](https://boosty.to/neurogen) или же воспользоваться [DonationAllets](https://www.donationalerts.com/r/em1t)
+
+## Вопросы и поддержка
+
+Вопросы можно задать в моем [Телеграм канале](https://t.me/neurogen_news)
