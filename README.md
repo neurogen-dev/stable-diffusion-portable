@@ -5,10 +5,10 @@ A portable version of Stable Diffusion based on [SD.Next](https://github.com/vla
 
 - Download the 7zip archive and unzip it:
 
-  [DOWNLOAD PORTABLE STABLE DIFFUSION](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
+  [DOWNLOAD PORTABLE STABLE DIFFUSION](https://dl.neurochat-gpt.ru/s/kxM5J7wPaaq9j7J/download/stable-diffusion-portable%20by%20Neurogen%20v1.0.0.7z)
 
-  [MIRROR #1](https://disk.yandex.ru/d/96kEuN_tarGDcQ)
-  [MIRROR #2](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
+  [MIRROR #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
+  MIRROR #2
 
 - Run the bat file:
 If you have an Nvidia video card: Run the file **webui-user-nvidia.bat**
@@ -30,10 +30,10 @@ You can support me by subscribing to my [Boosty](https://boosty.to/neurogen) or 
 
 - Скачайте 7zip архив:
 
-  [СКАЧАТЬ ПОРТАТИВНУЮ ВЕРСИЮ](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
+  [СКАЧАТЬ ПОРТАТИВНУЮ ВЕРСИЮ](https://dl.neurochat-gpt.ru/s/kxM5J7wPaaq9j7J/download/stable-diffusion-portable%20by%20Neurogen%20v1.0.0.7z)
   
-  [ЗЕРКАЛО #1](https://disk.yandex.ru/d/96kEuN_tarGDcQ)
-  [ЗЕРКАЛО #2](https://mega.nz/file/aAx1yJYb#lAc7UO2ZhKzlaz1bwtvXFZyFd79hQiMNIml_3WsCreo)
+  [ЗЕРКАЛО #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
+  ЗЕРКАЛО #2
   
 - Запустите bat файл:
 Если у вас видеокарта Nvidia, то запустите файл **webui-user-nvidia.bat**
