@@ -38,6 +38,10 @@ You can support me by subscribing to my [Boosty](https://boosty.to/neurogen) or 
   [ЗЕРКАЛО #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
   [ЗЕРКАЛО #2](https://mega.nz/file/mMY2xaaT#m79fT1nrJyU0rOXp-q1UlaFtGgTINLZNIddMmbe6Ga4)
   [ЗЕРКАЛО #3](https://drive.google.com/file/d/1o4BhjyIeQc1TQl_ytOFGh_iSgJVmpjjr/view?usp=sharing)
+
+  или, если у вас проблемы с загрузкой методом выше, скачайте разбитый на части архив:
+
+  [ЯНДЕКС ДИСК](https://disk.yandex.ru/d/vWUifmiRkpwHzg)
   
 - Запустите bat файл universal_start.bat
 
