@@ -8,7 +8,7 @@ A portable version of Stable Diffusion based on [SD.Next](https://github.com/vla
   [DOWNLOAD PORTABLE STABLE DIFFUSION](https://dl.neurochat-gpt.ru/s/kxM5J7wPaaq9j7J/download/stable-diffusion-portable%20by%20Neurogen%20v1.0.0.7z)
 
   [MIRROR #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
-  MIRROR #2
+  [MIRROR #2](https://mega.nz/file/mMY2xaaT#m79fT1nrJyU0rOXp-q1UlaFtGgTINLZNIddMmbe6Ga4)
 
 - Run the bat file: universal_start.bat
 
@@ -35,7 +35,7 @@ You can support me by subscribing to my [Boosty](https://boosty.to/neurogen) or 
   [СКАЧАТЬ ПОРТАТИВНУЮ ВЕРСИЮ](https://dl.neurochat-gpt.ru/s/kxM5J7wPaaq9j7J/download/stable-diffusion-portable%20by%20Neurogen%20v1.0.0.7z)
   
   [ЗЕРКАЛО #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
-  ЗЕРКАЛО #2
+  [ЗЕРКАЛО #2](https://mega.nz/file/mMY2xaaT#m79fT1nrJyU0rOXp-q1UlaFtGgTINLZNIddMmbe6Ga4)
   
 - Запустите bat файл universal_start.bat
 
