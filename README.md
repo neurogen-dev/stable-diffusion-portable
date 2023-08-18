@@ -11,6 +11,11 @@ A portable version of Stable Diffusion based on [SD.Next](https://github.com/vla
   [MIRROR #2](https://mega.nz/file/mMY2xaaT#m79fT1nrJyU0rOXp-q1UlaFtGgTINLZNIddMmbe6Ga4)
   [MIRROR #3](https://drive.google.com/file/d/1o4BhjyIeQc1TQl_ytOFGh_iSgJVmpjjr/view?usp=sharing)
 
+  or, if you have problems with downloading in the above way, download the archive in parts:
+
+  [YANDEX DISK](https://disk.yandex.ru/d/vWUifmiRkpwHzg)
+  [TELEGRAM](https://t.me/neurogen_news/231)
+
 - Run the bat file: universal_start.bat
 
 Features of the portable version:
@@ -42,6 +47,7 @@ You can support me by subscribing to my [Boosty](https://boosty.to/neurogen) or 
   или, если у вас проблемы с загрузкой методом выше, скачайте разбитый на части архив:
 
   [ЯНДЕКС ДИСК](https://disk.yandex.ru/d/vWUifmiRkpwHzg)
+  [ТЕЛЕГРАМ](https://t.me/neurogen_news/231)
   
 - Запустите bat файл universal_start.bat
 
