@@ -10,14 +10,16 @@ A portable version of Stable Diffusion based on [SD.Next](https://github.com/vla
   [MIRROR #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
   MIRROR #2
 
-- Run the bat file:
-If you have an Nvidia video card: Run the file **webui-user-nvidia.bat**
-If you have AMD video card: Run the file **webui-user-amd.bat**
+- Run the bat file: universal_start.bat
 
 Features of the portable version:
 
-The current version of CUDNN (8.9.4) is installed
-Dreamshaper v8 and VAE model is pre-installed.
+- Does not require installation of Python, GIT, Cuda toolkit, etc. Download, unzip, use. 
+- VAE and universal model dreamshaper_8.safetensors are pre-installed
+- Preinstalled custom ESRGAN upscalers
+- Preinstalled roop extension (face replacement on images)
+- Preinstalled swap-mukham extension (face replacement on images, videos)
+- Updates automatically at every startup
 
 ## Support me:
 
@@ -35,14 +37,16 @@ You can support me by subscribing to my [Boosty](https://boosty.to/neurogen) or 
   [ЗЕРКАЛО #1](https://disk.yandex.ru/d/qIlzSi_i_BSOxA)
   ЗЕРКАЛО #2
   
-- Запустите bat файл:
-Если у вас видеокарта Nvidia, то запустите файл **webui-user-nvidia.bat**
-Если у вас видеокарта AMD, то запустите файл **webui-user-amd.bat**
+- Запустите bat файл universal_start.bat
 
 Особенности портативной версии:
 
-CUDNN обновлен до версии 8.9.4
-Загружены модели Dreamshaper v8 и VAE
+- Не требует установки Python, GIT, Cuda toolkit и т.д. Скачали, распаковали, пользуетесь. 
+- Предустановлен VAE и универсальная модель dreamshaper_8.safetensors
+- Предустановлены кастомные ESRGAN апскейлеры
+- Предустановлено расширение roop (замена лица на изображениях)
+- Предустановлено расширение  swap-mukham (замена лица на изображениях, видео)
+- Обновляется автоматически при каждом запуске
 
 ## Поддержать меня:
 
